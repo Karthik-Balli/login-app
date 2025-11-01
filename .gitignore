@@ -1,0 +1,17 @@
+# Python Exclusions (Backend)
+/backend-python/venv
+/backend-python/.env
+/backend-python/__pycache__
+*.pyc
+*.sqlite3
+
+# Node/React Exclusions (Frontend)
+/frontend-react/node_modules
+/frontend-react/build
+/frontend-react/dist
+/frontend-react/.env
+
+# General OS & IDE Exclusions
+.DS_Store
+.vscode/
+.idea/
